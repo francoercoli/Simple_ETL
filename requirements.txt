@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+requests
+datetime
+bs4
+selenium
